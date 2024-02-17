@@ -11,8 +11,16 @@ form, .res{
     width: 350px;
 }
 
+.main{
+    background-color: #fff;
+    padding: 25px;
+}
 a{
     color: #000;
+}
+
+#red{
+    color: red;
 }
 #return{
     font-weight: 600;
@@ -49,7 +57,7 @@ select, select:focus{
     border:none;
     outline: none;
     padding: 10px;
-    width: 100px;
+    width: 150px;
     border: solid 2px #dbdcdd;
     border-radius: 5px;
     cursor: pointer;
